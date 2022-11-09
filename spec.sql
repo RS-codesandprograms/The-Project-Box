@@ -1,6 +1,10 @@
 /*
-I own a business called The Project Box. I sell project kits in bulk to organizations such as schools and camps. I need my bookkeeping to be organized properly. For each order I need to know the organization ordering, which project kit was ordered, order amount, order date, delivery date, paid or not, and the total order price. I also ask each organization how they heard about The Project Box. 
-After each order is processed and delivered, I follow up with a short survey about their overall satisfaction. The customer chooses between extremely unsatisfied,  partially satisfied, satisfied, very satisfied, and extremely satisfied. Be aware that not every customer completes the survey. 
+I own a business called The Project Box. I sell project kits in bulk to organizations such as schools and camps. 
+I need my bookkeeping to be organized properly. For each order I need to know the organization ordering, which project kit was ordered, 
+order amount, order date, delivery date, paid or not, and the total order price. I also ask each organization how they heard aboutThe Project Box. 
+After each order is processed and delivered, I follow up with a short survey about their overall satisfaction. 
+The customer chooses between extremely unsatisfied,  partially satisfied, satisfied, very satisfied, and extremely satisfied. 
+Be aware that not every customer completes the survey. 
 
 Pricing and delivery time depend on the order amount.  
 Orders 50 and less cost an additional $2/piece. Delivery time promised to the customer is 7 days. 
